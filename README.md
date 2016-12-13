@@ -1,11 +1,11 @@
 # Example-about-lstm-gru-cnn
 
-Here are some small project I wrote.
+Here are some small projects.
 
 
-cnn for Image-net image restoration using theano 
+CNN for Image-net image restoration using theano .
 
-lstm for ATIS natual language processing using theano
+LSTM for ATIS natual language processing using theano which I am going to add more function.
 
-gru for IMDB using verilog and matlab (verilog for its hardware implementation)
+GRU(gated recurrent unit) for IMDB natual language processing using verilog and matlab (verilog for its hardware implementation)
 
