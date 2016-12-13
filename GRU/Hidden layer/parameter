@@ -1,0 +1,10 @@
+parameter INPUTDIMEN = 4;
+parameter CELLNUM = 4;
+parameter DATABIT = 16;
+parameter STEP = 10;
+
+parameter XTNUM = INPUTDIMEN*DATABIT;
+parameter HTNUM = CELLNUM*DATABIT;
+parameter WNUM = CELLNUM*CELLNUM*DATABIT;
+parameter HWXNUM = INPUTDIMEN*CELLNUM*DATABIT;
+parameter HWHNUM = CELLNUM*CELLNUM*DATABIT;
